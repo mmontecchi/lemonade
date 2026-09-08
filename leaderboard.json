@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-09-08T06:50:35.457986+00:00",
+  "run_id": "33846041544",
+  "run_url": "https://github.com/mmontecchi/lemonade/actions/runs/33846041544",
+  "repo": "mmontecchi/lemonade",
+  "repo_url": "https://github.com/mmontecchi/lemonade",
+  "actions_url": "https://github.com/mmontecchi/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "bc8d99ccfee301742f1dd86a3f6ec406bb8a863d",
+  "lemonade_version": null,
+  "by_model_scenario": {},
+  "history": {}
+}
